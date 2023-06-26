@@ -1,4 +1,9 @@
 # Visualizing-deadlock-Concepts
 
 
-![CHEESE!][21MCA0278_DOS_REVIEW.pdf](https://github.com/NOUMAN-7/Visualizing-deadlock-Concepts/files/11863052/21MCA0278_DOS_REVIEW.pdf)
+Aim Of the Project : 
+
+Code Languages: Java, Kotlin, JavaScript.
+
+
+This is the Entire Manual and Code is Embedded Inside It
